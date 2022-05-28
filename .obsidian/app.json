@@ -1,17 +1,3 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
-  "attachmentFolderPath": "./assets/2022-05-27-周五",
-  "showFrontmatter": true,
-  "showLineNumber": true,
-  "promptDelete": false,
-  "newFileLocation": "root",
-  "newFileFolderPath": "./${filename}",
-  "newLinkFormat": "relative",
-  "alwaysUpdateLinks": true,
-  "vimMode": false,
-  "spellcheck": true,
-  "lineWrap": true,
-  "autoPairMarkdown": true,
-  "strictLineBreaks": true
+  "attachmentFolderPath": "./assets/conflict-files-obsidian-git"
 }
