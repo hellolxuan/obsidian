@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "你好.md",
+            "file": "日记/2022-05-27-周五.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "你好.md",
+                "file": "日记/2022-05-27-周五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "你好.md"
+                "file": "日记/2022-05-27-周五.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "你好.md",
+                "file": "日记/2022-05-27-周五.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,8 @@
   },
   "active": "f50117f707631f52",
   "lastOpenFiles": [
+    "日记/2022-05-27-周五.md",
+    "日记/2022-05-28-周六.md",
     "你好.md",
     "日记/2022-05-20-周五.md",
     "3.学习/SSM框架.md",
@@ -162,8 +164,6 @@
     "3.学习/nginx.conf.md",
     "3.学习/centos7安装docker.md",
     "3.学习/项目部署.md",
-    "1.博客文章/少女歌剧.md",
-    "1.博客文章/数据库原理及应用教程基础.md",
-    "1.博客文章/漂流少年.md"
+    "1.博客文章/少女歌剧.md"
   ]
 }

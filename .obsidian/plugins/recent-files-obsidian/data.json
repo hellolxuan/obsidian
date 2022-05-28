@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-27-周五",
+      "path": "日记/2022-05-27-周五.md"
+    },
+    {
+      "basename": "2022-05-28-周六",
+      "path": "日记/2022-05-28-周六.md"
+    },
+    {
       "basename": "你好",
       "path": "你好.md"
     },
@@ -65,16 +73,8 @@
       "path": "1.博客文章/assets/搭建v2ray/搭建v2ray.jpg"
     },
     {
-      "basename": "2022-05-28-周六",
-      "path": "日记/2022-05-28-周六.md"
-    },
-    {
       "basename": "日记模板",
       "path": "template/日记模板.md"
-    },
-    {
-      "basename": "2022-05-27-周五",
-      "path": "日记/2022-05-27-周五.md"
     },
     {
       "basename": "部署",
