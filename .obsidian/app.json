@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "attachmentFolderPath": "./assets/SSM框架",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "./${filename}",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "spellcheck": true,
+  "lineWrap": true,
+  "autoPairMarkdown": true,
+  "strictLineBreaks": true
+}
