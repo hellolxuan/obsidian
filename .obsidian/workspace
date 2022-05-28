@@ -7,8 +7,13 @@
         "id": "b327fef6e61a524a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "日记/2022-05-28-周六.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2022-05-28-周六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2022-05-28-周六.md"
+              }
             }
           },
           {
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2022-05-28-周六.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +155,8 @@
   },
   "active": "b327fef6e61a524a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "日记/2022-05-28-周六.md",
+    "conflict-files-obsidian-git.md",
     "日记/2022-05-20-周五.md",
     "日记/2022-05-27-周五.md",
     "你好.md",
