@@ -1,5 +1,9 @@
 {
   "attachmentFolderPath": "./assets/未命名",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true
 }
