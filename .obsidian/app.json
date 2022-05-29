@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/未命名"
+  "attachmentFolderPath": "./assets/未命名",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
