@@ -5,5 +5,6 @@
   "newFileLocation": "current",
   "showFrontmatter": true,
   "showLineNumber": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "strictLineBreaks": true
 }
