@@ -4,7 +4,11 @@
 
 当一个方法是static时，就是一个静态方法，静态方法可以直接通过类名调用
 
-```
-class 
-public static void 
+```java
+
+
+class A{
+public static void AA(){
+	}
+} 
 ```
