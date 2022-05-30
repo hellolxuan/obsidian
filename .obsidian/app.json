@@ -1,10 +1,11 @@
 {
-  "attachmentFolderPath": "./assets/未命名",
+  "attachmentFolderPath": "./assets/2022-05-28-周六",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "newFileLocation": "current",
   "showFrontmatter": true,
   "showLineNumber": true,
   "spellcheck": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "legacyEditor": false
 }
