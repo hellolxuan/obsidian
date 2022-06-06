@@ -4,32 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "f6bba9bcb40afaaa",
-        "type": "split",
-        "children": [
-          {
-            "id": "8d5fadddb0514b6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/blog.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13f3aa24827c6815",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "8d5fadddb0514b6b",
+        "type": "leaf",
+        "dimension": 35.35353535353536,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日记/blog.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "13f3aa24827c6815",
+        "type": "leaf",
+        "dimension": 64.64646464646465,
+        "state": {
+          "type": "mindmap",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
