@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-05-30-周一.md",
+            "file": "日记/blog.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-05-30-周一.md",
+                "file": "日记/blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-05-30-周一.md"
+                "file": "日记/blog.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-05-30-周一.md",
+                "file": "日记/blog.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +156,7 @@
   },
   "active": "8d5fadddb0514b6b",
   "lastOpenFiles": [
+    "日记/blog.md",
     "日记/2022-05-30-周一.md",
     "日记/2022-05-20-周五.md",
     "日记/2022-05-28-周六.md",
@@ -165,7 +165,6 @@
     "conflict-files-obsidian-git.md",
     "你好.md",
     "3.学习/SSM框架.md",
-    "3.学习/assets/SSM框架/SSM框架1.1.jpg",
-    "3.学习/nginx.conf.md"
+    "3.学习/assets/SSM框架/SSM框架1.1.jpg"
   ]
 }
