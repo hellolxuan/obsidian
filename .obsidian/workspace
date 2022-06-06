@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8d5fadddb0514b6b",
+        "id": "6fdfa009c2bded2a",
         "type": "leaf",
-        "dimension": 24.213075060532688,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,15 +14,6 @@
             "backlinks": true,
             "source": false
           }
-        }
-      },
-      {
-        "id": "6fdfa009c2bded2a",
-        "type": "leaf",
-        "dimension": 75.78692493946731,
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -80,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310,
-    "collapsed": true
+    "width": 310
   },
   "right": {
     "id": "33afa8544b7311a7",
@@ -165,7 +154,7 @@
     "width": 256,
     "collapsed": true
   },
-  "active": "8d5fadddb0514b6b",
+  "active": "6fdfa009c2bded2a",
   "lastOpenFiles": [
     "日记/blog.md",
     "日记/2022-05-30-周一.md",
