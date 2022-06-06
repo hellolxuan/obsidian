@@ -6,14 +6,24 @@
       {
         "id": "6fdfa009c2bded2a",
         "type": "leaf",
+        "dimension": 24.213075060532688,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/blog.md",
+            "file": "blog.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "0ca21e29bb496b51",
+        "type": "leaf",
+        "dimension": 75.78692493946731,
+        "state": {
+          "type": "mindmap",
+          "state": {}
         }
       }
     ],
@@ -70,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 310,
+    "collapsed": true
   },
   "right": {
     "id": "33afa8544b7311a7",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/blog.md",
+                "file": "blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/blog.md"
+                "file": "blog.md"
               }
             }
           },
@@ -124,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/blog.md",
+                "file": "blog.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +167,7 @@
   },
   "active": "6fdfa009c2bded2a",
   "lastOpenFiles": [
-    "日记/blog.md",
+    "blog.md",
     "日记/2022-05-30-周一.md",
     "日记/2022-05-20-周五.md",
     "日记/2022-05-28-周六.md",
