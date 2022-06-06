@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "8d5fadddb0514b6b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "日记/blog.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "3e7ac1fa9fdfefed",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d5fadddb0514b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/blog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc749359b32d7c2",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
