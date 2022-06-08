@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-06-07-周二.md",
+            "file": "日记/2022-06-08-周三.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-06-07-周二.md",
+                "file": "日记/2022-06-08-周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-07-周二.md"
+                "file": "日记/2022-06-08-周三.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-07-周二.md",
+                "file": "日记/2022-06-08-周三.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "afd7eea7e4169a16",
   "lastOpenFiles": [
+    "日记/2022-06-08-周三.md",
     "日记/2022-06-07-周二.md",
     "日记/2022-05-30-周一.md",
     "日记/2022-05-20-周五.md",
@@ -163,7 +164,6 @@
     "3.学习/韩顺平Java.md",
     "日记/2022-05-27-周五.md",
     "conflict-files-obsidian-git.md",
-    "你好.md",
-    "3.学习/SSM框架.md"
+    "你好.md"
   ]
 }
