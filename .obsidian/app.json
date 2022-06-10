@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "attachmentFolderPath": "./assets/应用写作实训三",
+=======
+  "attachmentFolderPath": "./assets/2022-06-07-周二",
+>>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "newFileLocation": "root",
