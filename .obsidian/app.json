@@ -1,11 +1,12 @@
 {
-  "attachmentFolderPath": "./assets/2022-06-08-周三",
+  "attachmentFolderPath": "./assets/应用写作实训三",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "showFrontmatter": true,
   "showLineNumber": true,
   "spellcheck": true,
   "strictLineBreaks": true,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "showUnsupportedFiles": true
 }
