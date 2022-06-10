@@ -7,9 +7,12 @@
         "id": "2ccabd293cf4ad43",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/应用写作实训三/mmexport1654824774895.jpg"
+            "file": "应用写作实训三.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/应用写作实训三/mmexport1654824774895.jpg",
+                "file": "应用写作实训三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/应用写作实训三/mmexport1654824774895.jpg"
+                "file": "应用写作实训三.md"
               }
             }
           },
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/应用写作实训三/mmexport1654824774895.jpg",
+                "file": "应用写作实训三.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +156,8 @@
   },
   "active": "2ccabd293cf4ad43",
   "lastOpenFiles": [
-    "assets/应用写作实训三/mmexport1654824774895.jpg",
     "应用写作实训三.md",
+    "assets/应用写作实训三/mmexport1654824774895.jpg",
     "未命名.md",
     "conflict-files-obsidian-git.md",
     "日记/2022-06-08-周三.md",
