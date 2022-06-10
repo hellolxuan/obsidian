@@ -6,6 +6,7 @@
       {
         "id": "2ccabd293cf4ad43",
         "type": "leaf",
+        "dimension": 19.732704402515726,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,6 +15,15 @@
             "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "111011dc86cdb6eb",
+        "type": "leaf",
+        "dimension": 80.26729559748428,
+        "state": {
+          "type": "mindmap",
+          "state": {}
         }
       }
     ],
