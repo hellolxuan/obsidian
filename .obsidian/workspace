@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ccabd293cf4ad43",
+        "id": "b15453897e5628e7",
         "type": "leaf",
-        "dimension": 43.31761006289308,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "应用写作实训三.md",
+            "file": "日记/2022-06-08-周三.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
-      },
-      {
-        "id": "111011dc86cdb6eb",
-        "type": "leaf",
-        "dimension": 56.68238993710691,
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用写作实训三.md",
+                "file": "日记/2022-06-08-周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用写作实训三.md"
+                "file": "日记/2022-06-08-周三.md"
               }
             }
           },
@@ -134,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用写作实训三.md",
+                "file": "日记/2022-06-08-周三.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,16 +151,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
-  "active": "2ccabd293cf4ad43",
+  "active": "b15453897e5628e7",
   "lastOpenFiles": [
+    "日记/2022-06-08-周三.md",
     "应用写作实训三.md",
     "assets/应用写作实训三/mmexport1654824774895.jpg",
     "未命名.md",
     "conflict-files-obsidian-git.md",
-    "日记/2022-06-08-周三.md",
     "日记/2022-06-07-周二.md",
     "日记/2022-05-30-周一.md",
     "日记/2022-05-20-周五.md",
