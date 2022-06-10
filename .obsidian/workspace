@@ -20,115 +20,138 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa73386ed37c3a99",
-    "type": "mobile-drawer",
+    "id": "b9f87b055f7fb275",
+    "type": "split",
     "children": [
       {
-        "id": "1221311b2703d666",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "3d73706f23548f08",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "dea90d8936c2fc19",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "f0bb397ed6933127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699d822f298056d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c376988ef09ba0d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#动漫",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b615faf460d7e678",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3da478bb04a3286a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "640ae5c144a4d197",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "87a8d89568af09c2",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 310
   },
   "right": {
-    "id": "41c1c2677d659155",
-    "type": "mobile-drawer",
+    "id": "33afa8544b7311a7",
+    "type": "split",
     "children": [
       {
-        "id": "64cb21397b5b3f5c",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "5fc1892a9019ef99",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "日记/2022-06-08-周三.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "cf32ba29ab93cca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e9a744e50de2d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2022-06-08-周三.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81565ccd0a2c0d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2022-06-08-周三.md"
+              }
+            }
+          },
+          {
+            "id": "8b18719c24bb25f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fc2e3fadb75ea0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2022-06-08-周三.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a86d7411f64b4d2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c09d2837890fc5e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "a41aebaafadcfe81",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "日记/2022-06-08-周三.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "d4785b3c45b351e2",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "日记/2022-06-08-周三.md"
-          }
-        }
+        ],
+        "currentTab": 5
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 256
   },
   "active": "afd7eea7e4169a16",
   "lastOpenFiles": [
