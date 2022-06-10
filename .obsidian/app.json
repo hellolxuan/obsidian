@@ -1,9 +1,3 @@
 {
-<<<<<<< HEAD
-  "attachmentFolderPath": "./assets/2022-06-10-周五",
-=======
-  "attachmentFolderPath": "./assets/2022-06-08-周三",
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
-  "defaultViewMode": "source",
-  "legacyEditor": false
+  "attachmentFolderPath": "./assets/2022-06-07-周二"
 }

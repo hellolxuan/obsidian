@@ -9,11 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "日记/2022-06-10-周五.md",
-=======
-            "file": "日记/2022-06-08-周三.md",
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
+            "file": "日记/2022-06-07-周二.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -24,90 +20,63 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "750a8aa753bd4599",
-    "type": "mobile-drawer",
+    "id": "b9f87b055f7fb275",
+    "type": "split",
     "children": [
       {
-        "id": "70f62f333ccce1c4",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "ad16236ba80dc3fc",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "10a1011c689b9955",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "f0bb397ed6933127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699d822f298056d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c376988ef09ba0d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#动漫",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b615faf460d7e678",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3da478bb04a3286a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "60959bec028ece09",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "32aa59847e958d63",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 226
   },
   "right": {
-    "id": "ac97c49b7af716c5",
-    "type": "mobile-drawer",
+    "id": "33afa8544b7311a7",
+    "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "04bd541755b78179",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "92235f2059a2ffb0",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "日记/2022-06-10-周五.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-=======
         "id": "cf32ba29ab93cca5",
         "type": "tabs",
         "children": [
@@ -117,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-06-08-周三.md",
+                "file": "日记/2022-06-07-周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-08-周三.md"
+                "file": "日记/2022-06-07-周二.md"
               }
             }
           },
@@ -155,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-08-周三.md",
+                "file": "日记/2022-06-07-周二.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,52 +145,23 @@
               "type": "calendar",
               "state": {}
             }
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
           }
-        }
-      },
-      {
-        "id": "b06b7cd8faace41c",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "日记/2022-06-10-周五.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "79939230c8c1185d",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "日记/2022-06-10-周五.md"
-          }
-        }
+        ],
+        "currentTab": 5
       }
     ],
-<<<<<<< HEAD
-    "currentTab": 0
-=======
     "direction": "horizontal",
     "width": 256
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
   },
   "active": "b15453897e5628e7",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "日记/2022-06-10-周五.md",
-=======
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
+    "日记/2022-06-07-周二.md",
     "日记/2022-06-08-周三.md",
+    "日记/2022-06-10-周五.md",
     "应用写作实训三.md",
     "assets/应用写作实训三/mmexport1654824774895.jpg",
     "未命名.md",
     "conflict-files-obsidian-git.md",
-    "日记/2022-06-07-周二.md",
     "日记/2022-05-30-周一.md",
     "日记/2022-05-20-周五.md",
     "blog.md"
