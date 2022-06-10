@@ -9,9 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "应用写作实训三.md",
+            "file": "未命名.md",
             "mode": "source",
-            "backlinks": true
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "应用写作实训三.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "应用写作实训三.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "应用写作实训三.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +156,7 @@
   },
   "active": "2ccabd293cf4ad43",
   "lastOpenFiles": [
+    "未命名.md",
     "应用写作实训三.md",
     "assets/应用写作实训三/mmexport1654824774895.jpg",
     "conflict-files-obsidian-git.md",
@@ -163,7 +165,6 @@
     "日记/2022-05-30-周一.md",
     "日记/2022-05-20-周五.md",
     "blog.md",
-    "日记/2022-05-28-周六.md",
-    "3.学习/韩顺平Java.md"
+    "日记/2022-05-28-周六.md"
   ]
 }
