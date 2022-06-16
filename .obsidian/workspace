@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记/2022-06-08-周三.md",
+            "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d92f44eb5d2bcd37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-06-08-周三.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-06-08-周三.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-06-08-周三.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +166,17 @@
     "direction": "horizontal",
     "width": 256
   },
-  "active": "b15453897e5628e7",
+  "active": "d92f44eb5d2bcd37",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+    "日记/2022-06-16-周四.md",
     "日记/2022-06-08-周三.md",
     "日记/2022-06-14-周二.md",
     "日记/2022-06-10-周五.md",
     "日记/2022-06-07-周二.md",
     "应用写作实训三.md",
     "assets/应用写作实训三/mmexport1654824774895.jpg",
-    "未命名.md",
-    "conflict-files-obsidian-git.md",
-    "日记/2022-05-30-周一.md",
-    "日记/2022-05-20-周五.md"
+    "未命名.md"
   ]
 }
