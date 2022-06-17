@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
   "attachmentFolderPath": "./assets/2022-06-17-周五",
-  "legacyEditor": false,
-  "promptDelete": false
-=======
-  "attachmentFolderPath": "./assets/jsp前端和数据库的交互是怎么实现的？"
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
+  "legacyEditor": false
 }

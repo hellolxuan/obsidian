@@ -9,13 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "日记/2022-06-17-周五.md",
-=======
-            "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
             "mode": "source",
-            "backlinks": true
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -23,90 +20,63 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1c793c42153fa38a",
-    "type": "mobile-drawer",
+    "id": "b9f87b055f7fb275",
+    "type": "split",
     "children": [
       {
-        "id": "f047a489a450c1dd",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "afd9151ea5ac4dd2",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "6e0952d3b013cd36",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "f0bb397ed6933127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699d822f298056d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c376988ef09ba0d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#动漫",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b615faf460d7e678",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3da478bb04a3286a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "6713dd27f64e3212",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "b7bfc7b31f0c84d6",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 226
   },
   "right": {
-    "id": "e7010499d43bbaeb",
-    "type": "mobile-drawer",
+    "id": "33afa8544b7311a7",
+    "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "4acabe9f6739d018",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "6e1c421882fb06cc",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "日记/2022-06-17-周五.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-=======
         "id": "cf32ba29ab93cca5",
         "type": "tabs",
         "children": [
@@ -116,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+                "file": "日记/2022-06-17-周五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md"
+                "file": "日记/2022-06-17-周五.md"
               }
             }
           },
@@ -154,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+                "file": "日记/2022-06-17-周五.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,54 +145,23 @@
               "type": "calendar",
               "state": {}
             }
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
           }
-        }
-      },
-      {
-        "id": "6a1f91cc56f9ae14",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "日记/2022-06-17-周五.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "3f911aabedfc6c6d",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "日记/2022-06-17-周五.md"
-          }
-        }
+        ],
+        "currentTab": 5
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 256
   },
   "active": "b15453897e5628e7",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "日记/2022-06-17-周五.md",
-    "conflict-files-obsidian-git.md",
-    "应用写作实训三.md",
-    "日记/2022-06-16-周四.md",
-=======
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
     "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
-<<<<<<< HEAD
-=======
     "日记/2022-06-16-周四.md",
     "conflict-files-obsidian-git.md",
->>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
     "日记/2022-06-08-周三.md",
     "日记/2022-06-14-周二.md",
     "日记/2022-06-10-周五.md",
     "日记/2022-06-07-周二.md",
-    "assets/应用写作实训三/mmexport1654824774895.jpg"
-  ]
-}
+    "应用写作实训三.md",
+    "assets/应用写作实训三/mme
