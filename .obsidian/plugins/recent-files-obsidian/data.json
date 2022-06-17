@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "2022-06-17-周五",
       "path": "日记/2022-06-17-周五.md"
     },
@@ -13,8 +14,21 @@
       "path": "日记/2022-06-16-周四.md"
     },
     {
+=======
+>>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
       "basename": "jsp前端和数据库的交互是怎么实现的？",
       "path": "3.学习/jsp前端和数据库的交互是怎么实现的？.md"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "basename": "2022-06-16-周四",
+      "path": "日记/2022-06-16-周四.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+>>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
     },
     {
       "basename": "2022-06-08-周三",

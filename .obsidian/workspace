@@ -9,10 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "日记/2022-06-17-周五.md",
+=======
+            "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+>>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
             "mode": "source",
-            "backlinks": true,
-            "source": false
+            "backlinks": true
           }
         }
       }
@@ -81,6 +84,7 @@
     "type": "mobile-drawer",
     "children": [
       {
+<<<<<<< HEAD
         "id": "4acabe9f6739d018",
         "type": "leaf",
         "state": {
@@ -102,6 +106,76 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
+=======
+        "id": "cf32ba29ab93cca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e9a744e50de2d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81565ccd0a2c0d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md"
+              }
+            }
+          },
+          {
+            "id": "8b18719c24bb25f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fc2e3fadb75ea0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a86d7411f64b4d2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c09d2837890fc5e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+>>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
           }
         }
       },
@@ -132,11 +206,19 @@
   },
   "active": "b15453897e5628e7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "日记/2022-06-17-周五.md",
     "conflict-files-obsidian-git.md",
     "应用写作实训三.md",
     "日记/2022-06-16-周四.md",
+=======
+>>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
     "3.学习/jsp前端和数据库的交互是怎么实现的？.md",
+<<<<<<< HEAD
+=======
+    "日记/2022-06-16-周四.md",
+    "conflict-files-obsidian-git.md",
+>>>>>>> branch 'main' of git@github.com:hellolxuan/obsidian.git
     "日记/2022-06-08-周三.md",
     "日记/2022-06-14-周二.md",
     "日记/2022-06-10-周五.md",
