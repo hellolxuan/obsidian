@@ -1,8 +1,8 @@
 ---
 title: 搭建v2ray
 tags: 
-	 - v2ray
-	 - vps
+    - v2ray
+    - vps
 author: Lxuan
 date: 2022-05-28
 thumbnail: /2022/05/28/搭建v2ray/搭建v2ray.jpg

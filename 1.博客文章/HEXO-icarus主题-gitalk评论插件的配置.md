@@ -35,7 +35,7 @@ cover:
 
 2. [进入此网页](https://github.com/gitalk/gitalk)往下拉，有这样一句命令，在博客根目录执行：
 
-   > npm i --save gitalk #安装gitalk插件
+   > npm i --save gitalk # 安装gitalk插件
 
 <br />
 
@@ -43,11 +43,11 @@ cover:
    
    >   comment：
    >   type: gitalk
-   >   owner: lxiuaunng   #你的GitHub用户名
-   >   repo: lxiuaunng.github.io   #你的博客地址
+   >   owner: lxiuaunng   # 你的GitHub用户名
+   >   repo: lxiuaunng.github.io   # 你的博客地址
    >   client_id: 0b26fddaf37d93589745
    >   client_secret: 1c15538585140bf3ef0b9f5dd2c01569055cf8ba
-   >   admin: lxiuaunng   #同样是你的GitHub用户名
+   >   admin: lxiuaunng   # 同样是你的GitHub用户名
 
 <br />
 4. 在博客根目录下打开git bush，先hexo clean，再hexo s->g->d

@@ -1,104 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-06-17-周五",
-      "path": "日记/2022-06-17-周五.md"
+      "basename": "双城之战",
+      "path": "影、漫、书/漫评/双城之战.md"
     },
     {
-      "basename": "2022-06-16-周四",
-      "path": "日记/2022-06-16-周四.md"
+      "basename": "动漫清单",
+      "path": "影、漫、书/动漫清单.md"
     },
     {
-      "basename": "2022-06-14-周二",
-      "path": "日记/2022-06-14-周二.md"
+      "basename": "新世纪福音战士",
+      "path": "影、漫、书/漫评/新世纪福音战士.md"
     },
     {
-      "basename": "2022-06-08-周三",
-      "path": "日记/2022-06-08-周三.md"
+      "basename": "紫罗兰永恒花园",
+      "path": "影、漫、书/漫评/紫罗兰永恒花园.md"
     },
     {
-      "basename": "jsp前端和数据库的交互是怎么实现的？",
-      "path": "3.学习/jsp前端和数据库的交互是怎么实现的？.md"
+      "basename": "电影清单",
+      "path": "影、漫、书/电影清单.md"
     },
     {
-      "basename": "2022-06-10-周五",
-      "path": "日记/2022-06-10-周五.md"
+      "basename": "书架清单",
+      "path": "影、漫、书/书架清单.md"
     },
     {
-      "basename": "2022-06-07-周二",
-      "path": "日记/2022-06-07-周二.md"
+      "basename": "少女歌剧",
+      "path": "影、漫、书/漫评/少女歌剧.md"
     },
     {
-      "basename": "应用写作实训三",
-      "path": "应用写作实训三.md"
+      "basename": "游戏人生",
+      "path": "影、漫、书/漫评/游戏人生.md"
     },
     {
-      "basename": "mmexport1654824774895",
-      "path": "assets/应用写作实训三/mmexport1654824774895.jpg"
+      "basename": "Hexo博客模板",
+      "path": "template/Hexo博客模板.md"
     },
     {
-      "basename": "2022-05-30-周一",
-      "path": "日记/2022-05-30-周一.md"
+      "basename": "Drawing 2022-06-28 17.39.59.excalidraw",
+      "path": "绘图/Drawing 2022-06-28 17.39.59.excalidraw.md"
     },
     {
-      "basename": "2022-05-20-周五",
-      "path": "日记/2022-05-20-周五.md"
+      "basename": "Drawing 2022-06-28 17.36.46.excalidraw",
+      "path": "绘图/Drawing 2022-06-28 17.36.46.excalidraw.md"
     },
     {
-      "basename": "blog",
-      "path": "blog.md"
+      "basename": "DataView",
+      "path": "DataView.md"
     },
     {
-      "basename": "2022-05-28-周六",
-      "path": "日记/2022-05-28-周六.md"
-    },
-    {
-      "basename": "韩顺平Java",
-      "path": "3.学习/韩顺平Java.md"
-    },
-    {
-      "basename": "2022-05-27-周五",
-      "path": "日记/2022-05-27-周五.md"
+      "basename": "漂流少年",
+      "path": "影、漫、书/漫评/漂流少年.md"
     },
     {
       "basename": "SSM框架",
       "path": "3.学习/SSM框架.md"
     },
     {
-      "basename": "SSM框架1.1",
-      "path": "3.学习/assets/SSM框架/SSM框架1.1.jpg"
-    },
-    {
-      "basename": "nginx.conf",
-      "path": "3.学习/nginx.conf.md"
-    },
-    {
-      "basename": "centos7安装docker",
-      "path": "3.学习/centos7安装docker.md"
+      "basename": "jsp前端和数据库的交互是怎么实现的？",
+      "path": "3.学习/jsp前端和数据库的交互是怎么实现的？.md"
     },
     {
       "basename": "项目部署",
       "path": "3.学习/项目部署.md"
     },
     {
-      "basename": "少女歌剧",
-      "path": "1.博客文章/少女歌剧.md"
+      "basename": "Linux基础命令",
+      "path": "1.博客文章/Linux基础命令.md"
     },
     {
-      "basename": "数据库原理及应用教程基础",
-      "path": "1.博客文章/数据库原理及应用教程基础.md"
-    },
-    {
-      "basename": "漂流少年",
-      "path": "1.博客文章/漂流少年.md"
-    },
-    {
-      "basename": "搭建v2ray",
-      "path": "1.博客文章/搭建v2ray.md"
-    },
-    {
-      "basename": "01",
-      "path": "10码神之路博客项目/01.md"
+      "basename": "HEXO-icarus主题-gitalk评论插件的配置",
+      "path": "1.博客文章/HEXO-icarus主题-gitalk评论插件的配置.md"
     },
     {
       "basename": "win10配置多个github仓库(下)",
@@ -109,88 +81,104 @@
       "path": "1.博客文章/win10配置多个github仓库.md"
     },
     {
-      "basename": "image-20220518182344637",
-      "path": "1.博客文章/assets/搭建v2ray/image-20220518182344637.png"
-    },
-    {
-      "basename": "搭建v2ray",
-      "path": "1.博客文章/assets/搭建v2ray/搭建v2ray.jpg"
-    },
-    {
-      "basename": "日记模板",
-      "path": "template/日记模板.md"
-    },
-    {
-      "basename": "部署",
-      "path": "10码神之路博客项目/部署.md"
-    },
-    {
-      "basename": "七八组",
-      "path": "5.课程笔记/七八组.md"
-    },
-    {
-      "basename": "7. 实现",
-      "path": "5.课程笔记/7. 实现.md"
-    },
-    {
-      "basename": "音乐播放器页面右下固定",
-      "path": "3.学习/音乐播放器页面右下固定.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "3.学习/MySQL.md"
-    },
-    {
-      "basename": "追番",
-      "path": "4.随记/追番.md"
-    },
-    {
-      "basename": "docker",
-      "path": "3.学习/docker.md"
-    },
-    {
-      "basename": "DOS命令",
-      "path": "3.学习/DOS命令.md"
-    },
-    {
-      "basename": "Java",
-      "path": "3.学习/Java.md"
-    },
-    {
-      "basename": "Hexo博客模板",
-      "path": "template/Hexo博客模板.md"
-    },
-    {
-      "basename": "紫罗兰永恒花园",
-      "path": "1.博客文章/紫罗兰永恒花园.md"
-    },
-    {
-      "basename": "EVA",
-      "path": "1.博客文章/EVA.md"
-    },
-    {
-      "basename": "HUGO搭建合集",
-      "path": "1.博客文章/HUGO搭建合集.md"
+      "basename": "SQL-Server遇到的问题和解决方法",
+      "path": "1.博客文章/SQL-Server遇到的问题和解决方法.md"
     },
     {
       "basename": "Node.js",
       "path": "1.博客文章/Node.js.md"
     },
     {
-      "basename": "SQL-Server遇到的问题和解决方法",
-      "path": "1.博客文章/SQL-Server遇到的问题和解决方法.md"
+      "basename": "HUGO搭建合集",
+      "path": "1.博客文章/HUGO搭建合集.md"
     },
     {
-      "basename": "2.1",
-      "path": "1.博客文章/assets/漂流少年/2.1.png"
+      "basename": "HEXO搭建合集",
+      "path": "1.博客文章/HEXO搭建合集.md"
     },
     {
-      "basename": "怀旧是个不好的习惯",
-      "path": "4.随记/怀旧是个不好的习惯.md"
+      "basename": "hexo博客文章置顶功能",
+      "path": "1.博客文章/hexo博客文章置顶功能.md"
+    },
+    {
+      "basename": "图床",
+      "path": "1.博客文章/图床.md"
+    },
+    {
+      "basename": "数据库原理及应用教程基础",
+      "path": "1.博客文章/数据库原理及应用教程基础.md"
+    },
+    {
+      "basename": "搭建v2ray",
+      "path": "1.博客文章/搭建v2ray.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "1.博客文章/设计模式.md"
+    },
+    {
+      "basename": "blog",
+      "path": "4.随记/blog.md"
+    },
+    {
+      "basename": "2022-06-30-周四",
+      "path": "日记/2022-06-30-周四.md"
+    },
+    {
+      "basename": "音乐播放器页面右下固定",
+      "path": "3.学习/音乐播放器页面右下固定.md"
+    },
+    {
+      "basename": "7.3",
+      "path": "影、漫、书/漫评/assets/双城之战/7.3.jpg"
+    },
+    {
+      "basename": "2022-06-16-周四",
+      "path": "日记/2022-06-16-周四.md"
+    },
+    {
+      "basename": "2022-06-17-周五",
+      "path": "日记/2022-06-17-周五.md"
+    },
+    {
+      "basename": "2022-06-22-周三",
+      "path": "日记/2022-06-22-周三.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "3.学习/MySQL.md"
+    },
+    {
+      "basename": "2022-06-14-周二",
+      "path": "日记/2022-06-14-周二.md"
+    },
+    {
+      "basename": "2022-06-08-周三",
+      "path": "日记/2022-06-08-周三.md"
+    },
+    {
+      "basename": "2022-05-28-周六",
+      "path": "日记/2022-05-28-周六.md"
+    },
+    {
+      "basename": "2022-05-30-周一",
+      "path": "日记/2022-05-30-周一.md"
+    },
+    {
+      "basename": "2022-05-27-周五",
+      "path": "日记/2022-05-27-周五.md"
+    },
+    {
+      "basename": "莫名其妙的傻逼幻想",
+      "path": "4.随记/莫名其妙的傻逼幻想.md"
     },
     {
       "basename": "寒假生活的糟糕现状",
       "path": "4.随记/寒假生活的糟糕现状.md"
+    },
+    {
+      "basename": "七八组",
+      "path": "5.课程笔记/七八组.md"
     }
   ],
   "omittedPaths": [],

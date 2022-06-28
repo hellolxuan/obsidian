@@ -10,6 +10,7 @@
   "obsidian-mind-map",
   "recent-files-obsidian",
   "templater-obsidian",
-  "obsidian-git",
-  "remotely-save"
+  "dataview",
+  "remotely-save",
+  "obsidian-git"
 ]
