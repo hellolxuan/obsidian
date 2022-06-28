@@ -7,8 +7,13 @@
         "id": "9182db8728f40b78",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. 发布文章/搭建v2ray.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#悬疑",
+                "query": "tag:#vps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. 发布文章/搭建v2ray.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. 发布文章/搭建v2ray.md"
+              }
             }
           },
           {
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. 发布文章/搭建v2ray.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,15 +155,15 @@
   },
   "active": "9182db8728f40b78",
   "lastOpenFiles": [
-    "10码神之路博客项目/09.md",
-    "10码神之路博客项目/10.md",
-    "10码神之路博客项目/12.md",
-    "10码神之路博客项目/部署.md",
-    "10码神之路博客项目/01.md",
-    "影、漫、书/漫评/双城之战.md",
-    "影、漫、书/动漫清单.md",
-    "影、漫、书/漫评/新世纪福音战士.md",
-    "影、漫、书/漫评/紫罗兰永恒花园.md",
+    "1. 发布文章/搭建v2ray.md",
+    "日记/2022-06-30-周四.md",
+    "7. 实现.md",
+    "七八组.md",
+    "DataView.md",
+    "20. 课程笔记/应用写作.md",
+    "绘图/Drawing 2022-06-28 17.36.46.excalidraw.md",
+    "绘图/Drawing 2022-06-28 17.39.59.excalidraw.md",
+    "影、漫、书/书架清单.md",
     "影、漫、书/电影清单.md"
   ]
 }
