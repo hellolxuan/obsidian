@@ -2,7 +2,6 @@
 title: <% tp.file.title %>
 tags: 
     - 
-    - 
 author: Lxuan
 date: <% tp.date.now("YYYY-MM-DD hh:mm:ss") %>
 thumbnail: <% tp.date.now("/YYYY/MM/DD/") %><% tp.file.title %>/<% tp.file.title %>.png

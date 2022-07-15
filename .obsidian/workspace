@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9182db8728f40b78",
+        "id": "39f7ea5ace94f883",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. 发布文章/搭建v2ray.md",
+            "file": "影、漫、书/动漫清单.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vps",
-                "matchingCase": false,
+                "query": "tag:#动漫",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 299
   },
   "right": {
     "id": "33afa8544b7311a7",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 发布文章/搭建v2ray.md",
+                "file": "影、漫、书/动漫清单.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 发布文章/搭建v2ray.md"
+                "file": "影、漫、书/动漫清单.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 发布文章/搭建v2ray.md",
+                "file": "影、漫、书/动漫清单.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,23 +147,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 236
   },
-  "active": "9182db8728f40b78",
+  "active": "39f7ea5ace94f883",
   "lastOpenFiles": [
-    "1. 发布文章/搭建v2ray.md",
-    "日记/2022-06-30-周四.md",
-    "7. 实现.md",
-    "七八组.md",
-    "DataView.md",
-    "20. 课程笔记/应用写作.md",
-    "绘图/Drawing 2022-06-28 17.36.46.excalidraw.md",
-    "绘图/Drawing 2022-06-28 17.39.59.excalidraw.md",
+    "影、漫、书/动漫清单.md",
+    "影、漫、书/漫评/双城之战.md",
+    "影、漫、书/漫评/街角魔族.md",
+    "影、漫、书/漫评/异世界归来的舅舅.md",
+    "影、漫、书/漫评/打工吧！魔王大人.md",
+    "影、漫、书/漫评/来自深渊.md",
     "影、漫、书/书架清单.md",
-    "影、漫、书/电影清单.md"
+    "影、漫、书/漫评/命运石之门.md",
+    "影、漫、书/漫评/刀剑神域.md",
+    "影、漫、书/漫评/新世纪福音战士.md"
   ]
 }

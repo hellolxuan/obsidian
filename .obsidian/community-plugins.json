@@ -11,5 +11,6 @@
   "recent-files-obsidian",
   "templater-obsidian",
   "dataview",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-git"
 ]

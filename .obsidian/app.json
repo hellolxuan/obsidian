@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/搭建v2ray",
+  "attachmentFolderPath": "./assets/动漫清单",
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
@@ -8,5 +8,7 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "useTab": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
