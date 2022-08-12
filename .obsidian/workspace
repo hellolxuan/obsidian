@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "39f7ea5ace94f883",
+        "id": "2b04daafa43ecb84",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "影、漫、书/动漫清单.md",
+            "file": "影、漫、书/漫评/彻夜之歌.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#动漫",
+                "query": "tag:#异世界",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 239
   },
   "right": {
     "id": "33afa8544b7311a7",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "影、漫、书/动漫清单.md",
+                "file": "影、漫、书/漫评/彻夜之歌.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "影、漫、书/动漫清单.md"
+                "file": "影、漫、书/漫评/彻夜之歌.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "影、漫、书/动漫清单.md",
+                "file": "影、漫、书/漫评/彻夜之歌.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 328,
+    "collapsed": true
   },
-  "active": "39f7ea5ace94f883",
+  "active": "2b04daafa43ecb84",
   "lastOpenFiles": [
     "影、漫、书/动漫清单.md",
-    "影、漫、书/漫评/双城之战.md",
-    "影、漫、书/漫评/街角魔族.md",
-    "影、漫、书/漫评/异世界归来的舅舅.md",
-    "影、漫、书/漫评/打工吧！魔王大人.md",
-    "影、漫、书/漫评/来自深渊.md",
+    "影、漫、书/书评/assets/无职转生/无职转生 简体版.md",
+    "影、漫、书/书评/无职转生.md",
     "影、漫、书/书架清单.md",
-    "影、漫、书/漫评/命运石之门.md",
-    "影、漫、书/漫评/刀剑神域.md",
-    "影、漫、书/漫评/新世纪福音战士.md"
+    "影、漫、书/书评/三体.md",
+    "影、漫、书/书评/assets/无职转生/无职转生 简体版.epub",
+    "影、漫、书/书评/惊悚乐园.md",
+    "影、漫、书/书评/放开那个女巫.md",
+    "影、漫、书/书评/assets/放开那个女巫/无职转生 简体版.epub",
+    "影、漫、书/书评/assets/放开那个女巫/新建 文本文档.epub"
   ]
 }

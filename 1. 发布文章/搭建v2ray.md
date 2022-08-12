@@ -45,7 +45,9 @@ top:
 3. 输入以下命令
 
    ```cmd
-   bash <(curl -sL https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh)
+    bash <(curl -sL https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh)
+    上面这个用不了就换下面这个
+    bash <(curl -s -L https://git.io/v2ray.sh)  
    ```
    
 4. 选择4，并回车

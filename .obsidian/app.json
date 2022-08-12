@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/动漫清单",
+  "attachmentFolderPath": "./assets/彻夜之歌",
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
@@ -9,6 +9,6 @@
   "newLinkFormat": "relative",
   "useTab": false,
   "spellcheck": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "showUnsupportedFiles": true
 }

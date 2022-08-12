@@ -37,7 +37,7 @@ cd 仓库地址2
 git config user.name "xxx"
 git config user.email "xxx@xxx.com"   
 ```
-.........   
+
 
 #### 创建公钥
 ```

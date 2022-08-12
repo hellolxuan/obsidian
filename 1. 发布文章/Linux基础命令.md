@@ -216,33 +216,203 @@ top:
    >
 3. unmount # 卸载
 
-# 端口开放命令 #端口
+# 端口开放命令
 
-CentOS：
+## CentOS：
 
 1. 防火墙
 
-   systemctl status firewalld.service（查看防火墙状态）
+   查看防火墙状态
 
-   systemctl stop firewalld.service （关闭防火墙）
+   ```CentOS
+   systemctl status firewalld.service
+   ```
 
-   systemctl start firewalld.service （开启防火墙）
+   关闭防火墙
 
-   systemctl disable firewalld.service （禁止防火墙自启动）
+   ```CentOS
+   systemctl stop firewalld.service
+   ```
 
-   systemctl enable firewalld.service （防火墙随系统开启启动）
+   开启防火墙
 
-2. 开放指定端口
-   firewall-cmd --zone=public --add-port=6379/tcp --permanent
+   ```CentOS
+   systemctl start firewalld.service
+   ```
+
+   禁止防火墙自启动
+
+   ```CentOS
+   systemctl disable firewalld.service
+   ```
+
+   防火墙随系统开启启动
+
+   ```CentOS
+   systemctl enable firewalld.service
+   ```
+
    命令含义：
-   –zone # 作用域
-   –add-port=6379/tcp # 添加端口，格式为：端口/通讯协议
-   –permanent # 永久生效，没有此参数重启后失效
 
-3. 重启防火墙
+   –zone //作用域
+
+   –add-port=6379/tcp //添加端口，格式为：端口/通讯协议
+
+   –permanent //永久生效，没有此参数重启后失效
+
+   重启防火墙
+   ````CentOS
    firewall-cmd --reload
+   ````
 
-4. 查看端口号
-   netstat -ntlp //查看当前所有tcp端口·
-   netstat -ntulp |grep 6379 //查看所有1935端口使用情况·
+2. 查看端口号
 
+   开放指定端口
+
+   ```CentOS
+   firewall-cmd --zone=public --add-port=端口/tcp --permanent
+   ```
+
+   查看当前所有tcp端口
+
+   ```CentOS
+   netstat -ntlp
+   ```
+
+   查看所有1935端口使用情况
+
+   ```CentOS
+   netstat -ntulp |grep 6379
+   ```
+
+## Ubuntu
+
+1. 防火墙
+
+   查看防火墙状态，也可以看到开放的端口
+
+   ```ubuntu
+   sudo ufw status
+   ```
+
+   关闭防火墙 
+
+   ```ubuntu
+   sudo ufw disable
+   ```
+
+   打开防火墙 
+
+   ```ubuntu
+   sudo ufw enable
+   ```
+
+   重启防火墙
+
+   ```ubuntu
+   sudo ufw reload
+   ```
+
+2. 端口
+
+   开放端口
+
+   ```ubuntu
+   sudo ufw allow 端口号
+   ```
+
+   关闭端口
+
+   ```ubuntu
+   sudo ufw deny 端口号
+   ```
+
+   查看开启的端口是否有程序监听
+
+   ```ubuntu
+   netstat -ap | grep 端口 
+   ```
+
+# 密钥登陆改成密码登陆
+
+1. 切换为root角色
+
+   ```linux
+   su root
+   ```
+
+2. 修改文件
+
+   ```linux
+   vim /etc/ssh/sshd_config
+   ```
+
+   找到 PasswordAuthentication yes 和 PermitRootLogin yes ，将前面的 ‘#’ 删掉
+
+3. 重启 sshd 服务
+
+   ```linux
+   systemctl restart sshd.service
+   ```
+   ```
+
+   关闭防火墙 
+
+   ```ubuntu
+   sudo ufw disable
+   ```
+
+   打开防火墙 
+
+   ```ubuntu
+   sudo ufw enable
+   ```
+
+   重启防火墙
+
+   ```ubuntu
+   sudo ufw reload
+   ```
+
+2. 端口
+
+   开放端口
+
+   ```ubuntu
+   sudo ufw allow 端口号
+   ```
+
+   关闭端口
+
+   ```ubuntu
+   sudo ufw deny 端口号
+   ```
+
+   查看开启的端口是否有程序监听
+
+   ```ubuntu
+   netstat -ap | grep 端口 
+   ```
+
+
+# 密钥登陆改成密码登陆
+
+1. 切换为root角色
+
+   ```linux
+   su root
+   ```
+
+2. 修改文件
+
+   ```linux
+   vim /etc/ssh/sshd_config
+   ```
+
+   找到 PasswordAuthentication yes 和 PermitRootLogin yes ，将前面的 ‘#’ 删掉
+
+3. 重启 sshd 服务
+
+   ```linux
+   systemctl restart sshd.service
+   ```
