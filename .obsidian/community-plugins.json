@@ -12,5 +12,6 @@
   "templater-obsidian",
   "dataview",
   "remotely-save",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-git"
 ]
