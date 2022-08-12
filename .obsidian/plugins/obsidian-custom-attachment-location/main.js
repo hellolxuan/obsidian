@@ -9,23 +9,20 @@ var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __markAsModule = (target) => __defProp(target, "__esModule", { value: true });
 var __export = (target, all) => {
-  __markAsModule(target);
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
 };
-var __reExport = (target, module2, desc) => {
-  if (module2 && typeof module2 === "object" || typeof module2 === "function") {
-    for (let key of __getOwnPropNames(module2))
-      if (!__hasOwnProp.call(target, key) && key !== "default")
-        __defProp(target, key, { get: () => module2[key], enumerable: !(desc = __getOwnPropDesc(module2, key)) || desc.enumerable });
+var __copyProps = (to, from, except, desc) => {
+  if (from && typeof from === "object" || typeof from === "function") {
+    for (let key of __getOwnPropNames(from))
+      if (!__hasOwnProp.call(to, key) && key !== except)
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
   }
-  return target;
+  return to;
 };
-var __toModule = (module2) => {
-  return __reExport(__markAsModule(__defProp(module2 != null ? __create(__getProtoOf(module2)) : {}, "default", module2 && module2.__esModule && "default" in module2 ? { get: () => module2.default, enumerable: true } : { value: module2, enumerable: true })), module2);
-};
+var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target, mod));
+var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var __async = (__this, __arguments, generator) => {
   return new Promise((resolve, reject) => {
     var fulfilled = (value) => {
@@ -48,11 +45,13 @@ var __async = (__this, __arguments, generator) => {
 };
 
 // main.ts
-__export(exports, {
+var main_exports = {};
+__export(main_exports, {
   default: () => CustomAttachmentLocation
 });
-var import_obsidian = __toModule(require("obsidian"));
-var Path = __toModule(require("path"));
+module.exports = __toCommonJS(main_exports);
+var import_obsidian = require("obsidian");
+var Path = __toESM(require("path"));
 var DEFAULT_SETTINGS = {
   attachmentFolderPath: "./assets/${filename}",
   pastedImageFileName: "image-${date}",
@@ -154,6 +153,8 @@ var CustomAttachmentLocation = class extends import_obsidian.Plugin {
       let fullPath = this.getAttachmentFolderFullPath(mdFolderPath, mdFileName);
       this.updateAttachmentFolderConfig(path);
       let clipBoardData = event.clipboardData;
+      if (clipBoardData == null || clipBoardData.items == null)
+        return;
       let clipBoardItems = clipBoardData.items;
       if (!clipBoardData.getData("text/plain")) {
         for (let i in clipBoardItems) {
@@ -201,6 +202,8 @@ var CustomAttachmentLocation = class extends import_obsidian.Plugin {
         console.log("No file open");
         return;
       }
+      if (file.extension !== "md")
+        return;
       let mdFileName = file.basename;
       let path = this.getAttachmentFolderPath(mdFileName);
       this.updateAttachmentFolderConfig(path);
@@ -210,9 +213,13 @@ var CustomAttachmentLocation = class extends import_obsidian.Plugin {
     return __async(this, null, function* () {
       var _a;
       console.log("Handle Rename");
-      if (!this.settings.autoRenameFolder || newFile.extension !== "md")
+      if (newFile.extension !== "md")
         return;
       let newName = newFile.basename;
+      this.updateAttachmentFolderConfig(this.getAttachmentFolderPath(newName));
+      if (!this.settings.autoRenameFolder) {
+        return;
+      }
       let oldName = Path.basename(oldFilePath, ".md");
       let mdFolderPath = Path.dirname(newFile.path);
       let oldMdFolderPath = Path.dirname(oldFilePath);
@@ -232,7 +239,6 @@ var CustomAttachmentLocation = class extends import_obsidian.Plugin {
         if (oldAttachmentParentFolderList.folders.length === 0 && oldAttachmentParentFolderList.files.length === 0) {
           yield this.adapter.rmdir(oldAttachmentParentFolderPath, true);
         }
-        this.updateAttachmentFolderConfig(this.getAttachmentFolderPath(newName));
       }
       if (!this.settings.autoRenameFiles)
         return;
@@ -256,6 +262,8 @@ var CustomAttachmentLocation = class extends import_obsidian.Plugin {
           fileName = fileName.replace(oldName, newName);
           let newFilePath = (0, import_obsidian.normalizePath)(Path.join(newAttachmentFolderPath, fileName));
           let tfile = this.app.vault.getAbstractFileByPath(filePath);
+          if (tfile == null)
+            continue;
           yield this.app.fileManager.renameFile(tfile, newFilePath);
         } else
           continue;
@@ -302,7 +310,7 @@ var CustomAttachmentLocationSettingTab = class extends import_obsidian.PluginSet
       yield this.plugin.saveSettings();
     })));
     if (this.plugin.settings.autoRenameFolder)
-      new import_obsidian.Setting(containerEl).setName("Automatically rename attachment files [Experimental]").setDesc('When renaming md files, automatically rename attachment files if file name contains "${filename}".').addToggle((toggle) => toggle.setValue(this.plugin.settings.autoRenameFiles).onChange((value) => __async(this, null, function* () {
+      new import_obsidian.Setting(containerEl).setName("Automatically rename attachment files").setDesc('When renaming md files, automatically rename attachment files if file name contains "${filename}".').addToggle((toggle) => toggle.setValue(this.plugin.settings.autoRenameFiles).onChange((value) => __async(this, null, function* () {
         this.plugin.settings.autoRenameFiles = value;
         yield this.plugin.saveSettings();
       })));
