@@ -3,7 +3,6 @@
   "better-word-count",
   "calendar",
   "code-block-copy",
-  "obsidian-custom-attachment-location",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "file-explorer-note-count",
@@ -12,6 +11,6 @@
   "templater-obsidian",
   "dataview",
   "remotely-save",
-  "obsidian-annotator",
+  "obsidian-custom-attachment-location",
   "obsidian-git"
 ]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2b04daafa43ecb84",
+        "id": "cf05fae227285698",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "影、漫、书/漫评/彻夜之歌.md",
+            "file": "10. 学习与技术/Java.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,15 +20,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b9f87b055f7fb275",
+    "id": "89c795461e4a4aa7",
     "type": "split",
     "children": [
       {
-        "id": "f0bb397ed6933127",
+        "id": "18a7f2efccbc4443",
         "type": "tabs",
         "children": [
           {
-            "id": "699d822f298056d9",
+            "id": "7b7851c3911822b2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "17c481003cd1c378",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,13 +44,13 @@
             }
           },
           {
-            "id": "c376988ef09ba0d9",
+            "id": "d646d51b9df00a5e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#异世界",
-                "matchingCase": true,
+                "query": "搭建v",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -51,43 +59,44 @@
             }
           },
           {
-            "id": "b615faf460d7e678",
+            "id": "44f5babbc11accbe",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "3da478bb04a3286a",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 300
   },
   "right": {
-    "id": "33afa8544b7311a7",
+    "id": "554a6f6cb4c4b37d",
     "type": "split",
     "children": [
       {
-        "id": "cf32ba29ab93cca5",
+        "id": "fb43338f0c3532b9",
         "type": "tabs",
         "children": [
           {
-            "id": "82e9a744e50de2d7",
+            "id": "1bed927f92d8919a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d79dc36666ba08e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "影、漫、书/漫评/彻夜之歌.md",
-                "collapseAll": true,
+                "file": "10. 学习与技术/Java.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -98,17 +107,19 @@
             }
           },
           {
-            "id": "81565ccd0a2c0d4c",
+            "id": "72a7e136e4bed4a4",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
               "state": {
-                "file": "影、漫、书/漫评/彻夜之歌.md"
+                "file": "10. 学习与技术/Java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8b18719c24bb25f8",
+            "id": "891f89ee369713a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,52 +130,33 @@
             }
           },
           {
-            "id": "9fc2e3fadb75ea0f",
+            "id": "ba559ffc45fdd0c4",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "file": "影、漫、书/漫评/彻夜之歌.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "10. 学习与技术/Java.md"
               }
-            }
-          },
-          {
-            "id": "4a86d7411f64b4d2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c09d2837890fc5e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3da478bb04a3286a",
+  "active": "ba559ffc45fdd0c4",
   "lastOpenFiles": [
-    "影、漫、书/动漫清单.md",
-    "影、漫、书/书评/assets/无职转生/无职转生 简体版.md",
-    "影、漫、书/书评/无职转生.md",
+    "30. 我的记录/blog.md",
+    "影、漫、书/电影清单.md",
     "影、漫、书/书架清单.md",
-    "影、漫、书/书评/三体.md",
-    "影、漫、书/书评/assets/无职转生/无职转生 简体版.epub",
-    "影、漫、书/书评/惊悚乐园.md",
-    "影、漫、书/书评/放开那个女巫.md",
-    "影、漫、书/书评/assets/放开那个女巫/无职转生 简体版.epub",
-    "影、漫、书/书评/assets/放开那个女巫/新建 文本文档.epub"
+    "影、漫、书/动漫清单.md",
+    "1. 发布文章/HEXO-icarus主题-gitalk评论插件的配置.md",
+    "1. 发布文章/图床.md",
+    "1. 发布文章/搭建v2ray.md",
+    "DataView.md",
+    "10. 学习与技术/SSM框架.md",
+    "1. 发布文章/assets/hexo博客文章置顶功能/hexo博客文章置顶.png"
   ]
 }

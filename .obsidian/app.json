@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/无职转生 简体版",
+  "attachmentFolderPath": "./assets/Java",
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
@@ -9,6 +9,6 @@
   "newLinkFormat": "relative",
   "useTab": false,
   "spellcheck": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "showUnsupportedFiles": true
 }

@@ -1,24 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "彻夜之歌",
-      "path": "影、漫、书/漫评/彻夜之歌.md"
+      "basename": "Java",
+      "path": "10. 学习与技术/Java.md"
+    },
+    {
+      "basename": "blog",
+      "path": "30. 我的记录/blog.md"
+    },
+    {
+      "basename": "电影清单",
+      "path": "影、漫、书/电影清单.md"
+    },
+    {
+      "basename": "书架清单",
+      "path": "影、漫、书/书架清单.md"
     },
     {
       "basename": "动漫清单",
       "path": "影、漫、书/动漫清单.md"
     },
     {
-      "basename": "无职转生 简体版",
-      "path": "影、漫、书/书评/assets/无职转生/无职转生 简体版.md"
+      "basename": "HEXO-icarus主题-gitalk评论插件的配置",
+      "path": "1. 发布文章/HEXO-icarus主题-gitalk评论插件的配置.md"
+    },
+    {
+      "basename": "图床",
+      "path": "1. 发布文章/图床.md"
+    },
+    {
+      "basename": "搭建v2ray",
+      "path": "1. 发布文章/搭建v2ray.md"
+    },
+    {
+      "basename": "DataView",
+      "path": "DataView.md"
+    },
+    {
+      "basename": "SSM框架",
+      "path": "10. 学习与技术/SSM框架.md"
+    },
+    {
+      "basename": "hexo博客文章置顶",
+      "path": "1. 发布文章/assets/hexo博客文章置顶功能/hexo博客文章置顶.png"
+    },
+    {
+      "basename": "hexo博客文章置顶功能",
+      "path": "1. 发布文章/hexo博客文章置顶功能.md"
+    },
+    {
+      "basename": "紫罗兰永恒花园",
+      "path": "影、漫、书/漫评/紫罗兰永恒花园.md"
+    },
+    {
+      "basename": "2022-07-02-周六",
+      "path": "日记/2022-07-02-周六.md"
+    },
+    {
+      "basename": "超自然9人组",
+      "path": "影、漫、书/漫评/超自然9人组.md"
+    },
+    {
+      "basename": "无职转生",
+      "path": "影、漫、书/漫评/无职转生.md"
+    },
+    {
+      "basename": "无职转生 ～在异世界认真地活下去～ 第二季",
+      "path": "影、漫、书/漫评/assets/无职转生/无职转生 ～在异世界认真地活下去～ 第二季.jpg"
+    },
+    {
+      "basename": "无职转生 ～在异世界认真地活下去～",
+      "path": "影、漫、书/漫评/assets/无职转生/无职转生 ～在异世界认真地活下去～.jpg"
+    },
+    {
+      "basename": "若能与你共乘海浪之上",
+      "path": "影、漫、书/影评/若能与你共乘海浪之上.md"
+    },
+    {
+      "basename": "来自深渊",
+      "path": "影、漫、书/漫评/来自深渊.md"
     },
     {
       "basename": "无职转生",
       "path": "影、漫、书/书评/无职转生.md"
     },
     {
-      "basename": "书架清单",
-      "path": "影、漫、书/书架清单.md"
+      "basename": "异世界归来的舅舅",
+      "path": "影、漫、书/漫评/异世界归来的舅舅.md"
+    },
+    {
+      "basename": "影之宅",
+      "path": "影、漫、书/漫评/影之宅.md"
+    },
+    {
+      "basename": "打工吧！魔王大人",
+      "path": "影、漫、书/漫评/打工吧！魔王大人.md"
+    },
+    {
+      "basename": "命运石之门",
+      "path": "影、漫、书/漫评/命运石之门.md"
+    },
+    {
+      "basename": "Odd Taxi",
+      "path": "影、漫、书/漫评/Odd Taxi.md"
+    },
+    {
+      "basename": "中二病也要谈恋爱！",
+      "path": "影、漫、书/漫评/中二病也要谈恋爱！.md"
+    },
+    {
+      "basename": "B：起点",
+      "path": "影、漫、书/漫评/B：起点.md"
+    },
+    {
+      "basename": "彻夜之歌",
+      "path": "影、漫、书/漫评/彻夜之歌.md"
     },
     {
       "basename": "三体",
@@ -37,36 +133,16 @@
       "path": "影、漫、书/书评/放开那个女巫.md"
     },
     {
-      "basename": "电影清单",
-      "path": "影、漫、书/电影清单.md"
-    },
-    {
       "basename": "电视剧清单",
       "path": "影、漫、书/电视剧清单.md"
-    },
-    {
-      "basename": "异世界归来的舅舅",
-      "path": "影、漫、书/漫评/异世界归来的舅舅.md"
     },
     {
       "basename": "街角魔族",
       "path": "影、漫、书/漫评/街角魔族.md"
     },
     {
-      "basename": "Odd Taxi",
-      "path": "影、漫、书/漫评/Odd Taxi.md"
-    },
-    {
-      "basename": "Odd",
-      "path": "漫评/Odd.md"
-    },
-    {
       "basename": "女高中生的虚度日常",
       "path": "影、漫、书/漫评/女高中生的虚度日常.md"
-    },
-    {
-      "basename": "中二病也要谈恋爱！",
-      "path": "影、漫、书/漫评/中二病也要谈恋爱！.md"
     },
     {
       "basename": "漂流少年",
@@ -89,20 +165,12 @@
       "path": "影、漫、书/漫评/薇薇 -萤石眼之歌-.md"
     },
     {
-      "basename": "打工吧！魔王大人",
-      "path": "影、漫、书/漫评/打工吧！魔王大人.md"
-    },
-    {
       "basename": "我的三体",
       "path": "影、漫、书/漫评/我的三体.md"
     },
     {
       "basename": "Just Because",
       "path": "影、漫、书/漫评/Just Because.md"
-    },
-    {
-      "basename": "紫罗兰永恒花园",
-      "path": "影、漫、书/漫评/紫罗兰永恒花园.md"
     },
     {
       "basename": "爱，死亡和机器人",
@@ -117,10 +185,6 @@
       "path": "影、漫、书/漫评/继母的拖油瓶是我的前女友.md"
     },
     {
-      "basename": "B：起点",
-      "path": "影、漫、书/漫评/B：起点.md"
-    },
-    {
       "basename": "辉夜大小姐想让我告白",
       "path": "影、漫、书/漫评/辉夜大小姐想让我告白.md"
     },
@@ -129,76 +193,12 @@
       "path": "影、漫、书/漫评/异世界迷宫开后宫.md"
     },
     {
-      "basename": "来自深渊",
-      "path": "影、漫、书/漫评/来自深渊.md"
-    },
-    {
-      "basename": "影之宅",
-      "path": "影、漫、书/漫评/影之宅.md"
-    },
-    {
       "basename": "游戏人生",
       "path": "影、漫、书/漫评/游戏人生.md"
     },
     {
       "basename": "OVERLORD",
       "path": "影、漫、书/漫评/OVERLORD.md"
-    },
-    {
-      "basename": "碧蓝之海",
-      "path": "影、漫、书/漫评/碧蓝之海.md"
-    },
-    {
-      "basename": "冰海战记",
-      "path": "影、漫、书/漫评/冰海战记.md"
-    },
-    {
-      "basename": "刀剑神域",
-      "path": "影、漫、书/漫评/刀剑神域.md"
-    },
-    {
-      "basename": "盾之勇者成名录",
-      "path": "影、漫、书/漫评/盾之勇者成名录.md"
-    },
-    {
-      "basename": "命运石之门",
-      "path": "影、漫、书/漫评/命运石之门.md"
-    },
-    {
-      "basename": "男子高中生的日常",
-      "path": "影、漫、书/漫评/男子高中生的日常.md"
-    },
-    {
-      "basename": "无职转生",
-      "path": "影、漫、书/漫评/无职转生.md"
-    },
-    {
-      "basename": "新世纪福音战士",
-      "path": "影、漫、书/漫评/新世纪福音战士.md"
-    },
-    {
-      "basename": "夏日重现",
-      "path": "影、漫、书/漫评/夏日重现.md"
-    },
-    {
-      "basename": "怪奇物语",
-      "path": "影、漫、书/剧评/怪奇物语.md"
-    },
-    {
-      "basename": "来自深渊 烈日的黄金乡",
-      "path": "影、漫、书/漫评/assets/来自深渊/来自深渊 烈日的黄金乡.jpg"
-    },
-    {
-      "basename": "来自深渊",
-      "path": "影、漫、书/漫评/assets/来自深渊/来自深渊.png"
-    },
-    {
-      "basename": "Linux基础命令",
-      "path": "1. 发布文章/Linux基础命令.md"
-    },
-    {
-      "basename": "项目部署",
-      "path": "10. 学习与技术/项目部署.md"
     }
   ],
   "omittedPaths": [],
