@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "动漫清单",
+      "path": "影、漫、书/动漫清单.md"
+    },
+    {
       "basename": "Java",
       "path": "10. 学习与技术/Java.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "书架清单",
       "path": "影、漫、书/书架清单.md"
-    },
-    {
-      "basename": "动漫清单",
-      "path": "影、漫、书/动漫清单.md"
     },
     {
       "basename": "HEXO-icarus主题-gitalk评论插件的配置",

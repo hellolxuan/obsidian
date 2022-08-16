@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf05fae227285698",
+        "id": "5ba60af2ab127fe3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10. 学习与技术/Java.md",
+            "file": "影、漫、书/动漫清单.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 学习与技术/Java.md",
+                "file": "影、漫、书/动漫清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 学习与技术/Java.md",
+                "file": "影、漫、书/动漫清单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,19 +135,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 学习与技术/Java.md"
+                "file": "影、漫、书/动漫清单.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ba559ffc45fdd0c4",
+  "active": "1bed927f92d8919a",
   "lastOpenFiles": [
+    "10. 学习与技术/Java.md",
     "30. 我的记录/blog.md",
     "影、漫、书/电影清单.md",
     "影、漫、书/书架清单.md",
@@ -156,7 +156,6 @@
     "1. 发布文章/图床.md",
     "1. 发布文章/搭建v2ray.md",
     "DataView.md",
-    "10. 学习与技术/SSM框架.md",
-    "1. 发布文章/assets/hexo博客文章置顶功能/hexo博客文章置顶.png"
+    "10. 学习与技术/SSM框架.md"
   ]
 }
